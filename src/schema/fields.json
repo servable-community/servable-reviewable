@@ -1,0 +1,8 @@
+{
+    "reviewableStatus": {
+        "type": "String"
+    },
+    "reviewableMessage": {
+        "type": "String"
+    }
+}
