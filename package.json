@@ -40,7 +40,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yelounak/servable-reviewable.git"
+    "url": "https://github.com/servable-community/servable-reviewable.git"
   },
   "keywords": [
     "servable",
@@ -68,8 +68,7 @@
     }
   ],
   "peerDependencies": {
-    "servable-engine": "*",
-    "servable-reviewable-shared": "1.0.0"
+    "@servable/server": "*"
   },
   "devDependencies": {
     "@size-limit/preset-small-lib": "^4.10.2",

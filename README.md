@@ -106,7 +106,7 @@ TODO
 TODO
 
 ## Servable Documentation
-You can find here the complete [servable documentation](https://documentation.servable.app/) with guides and api reference.
+You can find here the complete [servable documentation](https://docs.servable.app/) with guides and api reference.
 
 ## License
 
